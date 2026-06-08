@@ -42,18 +42,11 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	// 	],
 	// });
 
-	// 关于及其子菜单
+	// 关于链接
 	links.push({
 		name: "关于",
-		url: "/content/",
+		url: "/about/",
 		icon: "material-symbols:info",
-		children: [
-			// 根据配置决定是否添加赞助，在siteConfig关闭pages.sponsor时导航栏不显示赞助
-			...(siteConfig.pages.sponsor ? [LinkPreset.Sponsor] : []),
-
-			// 关于页面
-			LinkPreset.About,
-		],
 	});
 
 	// 自定义导航栏链接,并且支持多级菜单

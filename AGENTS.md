@@ -1,4 +1,4 @@
-# Firefly — Agent instructions
+# SelfStack — Agent instructions
 
 ## Stack
 

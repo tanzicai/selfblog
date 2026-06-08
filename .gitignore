@@ -16,6 +16,7 @@ pnpm-debug.log*
 # environment variables
 .env
 .env.production
+.env*.local
 
 # macOS-specific files
 .DS_Store
@@ -30,6 +31,9 @@ yarn.lock
 .idea
 *.iml
 .claude
+*.swp
+*.swo
+*~
 
 # docs
 Firefly-docs/
@@ -37,3 +41,10 @@ Firefly-docs/
 cache/
 package/
 .obsidian/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Cloudflare
+.wrangler/
+backup-template-posts/
