@@ -1,7 +1,7 @@
 ---
-title: AI 时代的个人知识管理：当大模型成为你的第二大脑
-published: 2026-06-09
-description: 知识管理的核心问题从来不是"存不下来"，而是"用不上"。AI 的出现彻底改变了这个局面。这篇文章分享我如何用 AI 重构个人知识管理系统。
+title: AI 怎么改变了我记笔记的方式
+published: 2026-05-26
+description: 做了十年知识管理，从纸笔到 Obsidian，直到 AI 出现才真正解决了"记了一堆但用不上"的问题。聊聊我现在的工作流。
 tags: ["AI", "知识管理", "Obsidian", "笔记", "第二大脑", "工作效率"]
 category: 效率
 pinned: false

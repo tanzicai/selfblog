@@ -1,7 +1,7 @@
 ---
-title: AI 辅助编程：如何让大模型真正帮你写代码
-published: 2026-06-09
-description: 用了一年多 AI 编程，踩过不少坑。这篇文章总结我对 AI 辅助编程的实践经验——从 prompt 技巧、工作流设计到常见的陷阱和应对策略。
+title: 让 AI 写代码一年了，聊聊真实感受
+published: 2026-05-18
+description: 从最开始只会问"帮我写个函数"，到现在 AI 能帮我完成整个模块。一年多的 AI 编程实践，踩坑不少，但确实回不去了。
 tags: ["AI", "编程", "Claude", "opencode", "Cursor", "工作效率"]
 category: AI
 pinned: false

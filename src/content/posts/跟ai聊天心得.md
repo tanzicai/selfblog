@@ -1,7 +1,7 @@
 ---
-title: 提示词工程实战：从零开始学 AI 对话
-published: 2026-06-09
-description: 提示词工程（Prompt Engineering）是 2026 年最被低估的技能。这篇文章从最基础的对话技巧讲到高级的 system prompt 设计，覆盖日常工作和开发中的常见场景。
+title: 跟 AI 聊天的一些实用心得
+published: 2026-06-03
+description: 同样用 ChatGPT/Claude，有人觉得神器，有人觉得鸡肋。区别不在模型，在会不会聊。这篇分享我日常跟 AI 打交道的经验。
 tags: ["AI", "提示词", "Prompt Engineering", "效率", "ChatGPT", "Claude"]
 category: AI
 pinned: false
