@@ -36,6 +36,7 @@ import rehypeEmailProtection from "./src/plugins/rehype-email-protection.mjs";
 import rehypeExternalLinks from "./src/plugins/rehype-external-links.mjs";
 import rehypeFigure from "./src/plugins/rehype-figure.mjs";
 import { remarkImageGrid } from "./src/plugins/remark-image-grid.js";
+import { remarkObsidianWikilink } from "./src/plugins/remark-obsidian-wikilink.js";
 import { plantumlConfig } from "./src/config";
 
 if (process.env.NODE_ENV === "development") {
@@ -194,6 +195,7 @@ export default defineConfig({
 	],
 	markdown: {
 		remarkPlugins: [
+			remarkObsidianWikilink,
 			remarkMath,
 			remarkReadingTime,
 			remarkImageGrid,

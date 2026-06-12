@@ -20,12 +20,10 @@ export const coverImageConfig: CoverImageConfig = {
 	enableInPost: false,
 
 	randomCoverImage: {
-		// 随机封面图功能开关 
+		// 随机封面图功能开关
 		enable: false,
 		// 封面图API列表
-		apis: [
-			
-		],
+		apis: [],
 		// API失败时的回退图片路径（相对于src目录或以/开头的public目录路径）
 		fallback: "assets/images/cover.avif",
 		// 是否显示加载动画

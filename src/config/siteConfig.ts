@@ -29,7 +29,7 @@ export const siteConfig: SiteConfig = {
 		"Static Site",
 		"Digital Garden",
 		"Second Brain",
-		"Knowledge Management"
+		"Knowledge Management",
 	],
 
 	// 主题色
